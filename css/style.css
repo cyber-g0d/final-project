@@ -1,0 +1,42 @@
+  body{text-align: center;}
+  header {
+    display: inline;
+    text-align: center;
+  }
+  h1 {
+    font-family: "Silkscreen";
+    margin: 5%;
+    font-size: 300%;
+    color: black;
+  }
+  img{
+    height: 20px;
+    width: 20px;
+    background-color: red;
+  }
+
+  nav {
+    text-align: center;
+  }
+  div{ text-align: center;}
+  a:link {
+    margin: 2%;
+    padding: 1%;
+    background-color: black;
+    border-radius: 50%;
+    text-decoration: none;
+    color: black;
+  }
+  
+  a:visited {
+    color: darkgoldenrod;
+  }
+  
+  a:hover {
+    color: darkred;
+  }
+  
+  a:active {
+    color: silver;
+  }
+  
