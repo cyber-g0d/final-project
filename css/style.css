@@ -33,7 +33,6 @@
   }
 
   a:link {
-    background-color: #fe0039;
     text-decoration: none;
     color: rgb(63, 3, 3);
   }
@@ -89,5 +88,5 @@ footer{
   border: black, 2px, solid;
   width:200px;
   height: 200px;
-
+  background-color: #ff0000;
 }
