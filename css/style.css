@@ -73,6 +73,8 @@ input[type=submit]:hover {
   padding: 20px;
 }
 footer{
+  position: sticky;
+  bottom: 15px;
   margin: 2%;
   height: 10%;
   width: 100%;
