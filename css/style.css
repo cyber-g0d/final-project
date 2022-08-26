@@ -1,4 +1,5 @@
-  body{text-align: center;}
+  body{text-align: center;
+  background-color: black;}
   header {
     display: inline;
     text-align: center;
@@ -7,7 +8,7 @@
     font-family: "Silkscreen";
     margin: 5%;
     font-size: 300%;
-    color: black;
+    color: ghostwhite;
   }
   img{
     height: 20px;
@@ -22,10 +23,10 @@
   a:link {
     margin: 2%;
     padding: 1%;
-    background-color: black;
+    background-color: ghostwhite;
     border-radius: 50%;
     text-decoration: none;
-    color: black;
+    color: ghostwhite;
   }
   
   a:visited {
