@@ -78,3 +78,7 @@ input[type=submit]:hover {
 footer{
   display: inline;
 }
+.gallery{
+  border: black, 2px, solid;
+
+}
