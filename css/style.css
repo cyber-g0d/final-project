@@ -22,11 +22,18 @@
     text-align: center;
   }
   div{ text-align: center;}
-  a:link {
+
+  .nvg{
     margin: 2%;
     padding: 1%;
     background-color: #fe0039;
     border-radius: 50%;
+    text-decoration: none;
+    color: rgb(63, 3, 3);
+  }
+
+  a:link {
+    background-color: #fe0039;
     text-decoration: none;
     color: rgb(63, 3, 3);
   }
