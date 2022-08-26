@@ -13,8 +13,9 @@
     color: ghostwhite;
   }
   img{
-    height: 40px;
-    width: 40px;
+    margin:25px;
+    height: 100px;
+    width: 100px;
   }
 
   nav {
