@@ -73,7 +73,7 @@ input[type=submit]:hover {
   padding: 20px;
 }
 footer{
-  padding: 5px;
+  padding-inline: 500px;
   margin: 5px;
   background-color: whitesmoke;
   display: inline;
