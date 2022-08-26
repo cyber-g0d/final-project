@@ -76,9 +76,6 @@ input[type=submit]:hover {
   padding: 20px;
 }
 footer{
-  padding-inline: 500px;
-  margin: 5px;
-  background-color: whitesmoke;
   display: inline;
 }
-i{ margin : 5px;}
+i{ margin : 10px;}
