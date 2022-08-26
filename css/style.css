@@ -1,5 +1,7 @@
   body{text-align: center;
-  background: url("../images/vecteezy_flat_background_dp1021.jpg");}
+  background-image: url("../images/vecteezy_flat_background_dp1021.jpg");
+  background-size: cover;
+}
   header {
     display: inline;
     text-align: center;
