@@ -80,5 +80,7 @@ footer{
 }
 .gallery{
   border: black, 2px, solid;
+  width:200px;
+  height: 200px;
 
 }
