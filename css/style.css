@@ -11,9 +11,8 @@
     color: ghostwhite;
   }
   img{
-    height: 20px;
-    width: 20px;
-    background-color: red;
+    height: 40px;
+    width: 40px;
   }
 
   nav {
@@ -26,7 +25,7 @@
     background-color: ghostwhite;
     border-radius: 50%;
     text-decoration: none;
-    color: ghostwhite;
+    color: black;
   }
   
   a:visited {
@@ -74,5 +73,6 @@ input[type=submit]:hover {
   padding: 20px;
 }
 footer{
+  background-color: whitesmoke;
   display: inline;
 }
