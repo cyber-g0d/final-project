@@ -1,0 +1,101 @@
+body{
+    background-image: url("../images/144_generated.jpg");
+    background-color: #231f20;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+header{
+    text-align: center;
+}
+nav{
+
+    margin: 4px;
+    text-align: center;
+}
+/* unvisited link */
+.lnknav{
+    background-color: #231f20;
+}
+a:link {
+    font-size: 150%;
+    margin: 4px;
+    padding: 5px;
+    color: rgb(104, 104, 104);
+    text-decoration: none;
+    border-radius: 30px;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: rgb(102, 102, 102);
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: whitesmoke;
+  }
+  
+  /* selected link */
+  a:active {
+    color: black;
+  }
+  article{
+    text-align: center;
+  }
+  
+  i{
+    color:ghostwhite;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #231f20;
+    margin: 10px;
+  }
+  section{
+    text-align: center;
+  }
+img{
+    width:100px;
+    height:100px;
+}
+
+.section{
+    margin: 20px;
+    border-radius: 20px;
+    width: 200px;
+    height: 200px;
+}
+#ss{
+    position: absolute;
+    left: 41%;
+    top: 35%;
+    width:250px;
+    border-radius: 20px;
+    color: ghostwhite;
+    background-color: #231f20;
+}
+#formum{
+    border:0; height: 600px; width: 810px;
+}
+footer{
+    position: absolute;
+    top: 100%;
+    left: 41%;
+    text-align: center;
+  }
+.forumb{
+    position: absolute;
+    top:130%;
+    left:41;
+    text-align: center;
+}
+#pacmn{
+  border: none;
+  position: absolute;
+  top: 40%;
+  left: 22%;
+  width: 750px;
+  height: 608px;
+}
+.glnk{
+  font-family: "Silkscreen";
+}
